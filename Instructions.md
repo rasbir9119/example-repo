@@ -7,3 +7,5 @@ now file name should be in green.
 now use the command git push origin main
 u will prompted to sign through browser, enter your credential only once.
 once the command responds success, cehck the repository is updated with new file.
+
+#WE CAN also include the changes in the file and add them to the repository.
